@@ -1,0 +1,8 @@
+project NYSIIS is
+
+   package Ide is
+      for Vcs_Kind use "Git";
+   end Ide;
+
+end NYSIIS;
+

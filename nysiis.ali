@@ -1,0 +1,23 @@
+V "GNAT Lib v2014"
+A -gnatc
+A -gnatA
+P NO ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+RV SPARK_05
+
+U nysiis%b		nysiis.adb		799da267 OO PK IU
+
+U nysiis%s		nysiis.ads		5e78cea6 EE OO PK IU
+
+D nysiis.ads		20160725150757 5e78cea6 nysiis%s
+D nysiis.adb		20160725150731 27e56cc1 nysiis%b
+X 1 nysiis.ads
+1K9*NYSIIS 21l5 21e11 2|4b14 37l5 37t11
+16V13*hash{string} 16>19 19r16 2|24b13 34l8 34t12
+16a19 name{string} 18r15 18r38 2|24b19 28r12
+X 2 nysiis.adb
+26a7 r{string} 28m7 33r14
+
